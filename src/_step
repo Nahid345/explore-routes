@@ -1,0 +1,7 @@
+/* 
+1. react-router install : npm i react-router-dom
+2. create router use createBrowserRouter
+3.Add RouterProvide and pass router props
+4. create some route
+
+*/
